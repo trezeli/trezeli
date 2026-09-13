@@ -12,7 +12,7 @@ desenvolvimento web e bancos de dados.
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### Linguagens
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" />
@@ -24,21 +24,12 @@ desenvolvimento web e bancos de dados.
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Atualmente estudando
-
-- ☕ Java
-- 🌐 JavaScript
-- 🗄️ Banco de Dados / SQL
-- 🌎 Desenvolvimento Web
-- 📊 Estruturas de Dados e Algoritmos
-
 ## 📚 Formação
 
 🎓 **Sistemas de Informação — IFES**  
 2025 — atualmente
 
 📍 Instituto Federal do Espírito Santo
-
 
 ## 📊 GitHub
 
