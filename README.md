@@ -1,11 +1,5 @@
 # Olá! Eu sou o Miguel 👋
 
-🎓 Estudante de **Sistemas de Informação no IFES**  
-💻 Interessado em **Desenvolvimento de Software, Tecnologia e Soluções Web**  
-🚀 Atualmente no **4º período**
-
----
-
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), 
@@ -13,9 +7,6 @@ com interesse em desenvolvimento de software e tecnologia.
 
 Atualmente estou aprofundando meus conhecimentos em programação, estruturas de dados,
 desenvolvimento web e bancos de dados.
-
-Também participo de projetos acadêmicos e atividades de extensão, buscando transformar
-o conhecimento adquirido na faculdade em projetos práticos.
 
 ---
 
@@ -41,52 +32,6 @@ o conhecimento adquirido na faculdade em projetos práticos.
 - 🌎 Desenvolvimento Web
 - 📊 Estruturas de Dados e Algoritmos
 
----
-
-## 🚀 Projetos
-
-### 🎓 Sistema de Gerenciamento de Alunos
-
-Sistema desenvolvido como projeto acadêmico utilizando estruturas de dados e programação.
-
-**Tecnologias:**
-- C++
-- Estruturas de Dados
-- Listas Encadeadas
-- Tabelas Hash
-- Arquivos
-
-🔗 [Ver projeto](https://github.com/trezeli/Sistema-Gerenciamento-Alunos)
-
----
-
-### 💾 Simulador de Sistema de Arquivos
-
-Projeto acadêmico desenvolvido para simular o funcionamento de um sistema de arquivos,
-utilizando estruturas de dados.
-
-**Tecnologias:**
-- C/C++
-- Árvore Binária de Busca
-- Vetores
-- Manipulação de arquivos
-- Estruturas de Dados
-
----
-
-### 🚚 Otimização de Custos Logísticos
-
-Projeto acadêmico desenvolvido em Python para analisar a otimização de custos
-no transporte rodoviário.
-
-**Tecnologias:**
-- Python
-- Cálculo
-- Otimização
-- Análise de custos
-
----
-
 ## 📚 Formação
 
 🎓 **Sistemas de Informação — IFES**  
@@ -94,15 +39,6 @@ no transporte rodoviário.
 
 📍 Instituto Federal do Espírito Santo
 
----
-
-## 📖 Cursos
-
-- FIAP — Design Thinking
-- FIAP — Big Data
-- FIAP — Business Intelligence
-
----
 
 ## 📊 GitHub
 
@@ -116,7 +52,7 @@ no transporte rodoviário.
 ## 📫 Onde me encontrar
 
 <p>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:queirozmiguel06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
