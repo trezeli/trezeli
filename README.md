@@ -1,4 +1,4 @@
-# Olá! Eu sou o Miguel 👋
+# Olá! Eu sou o Miguel 
 
 Sou estudante de Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), com interesse em desenvolvimento de software e tecnologia.
 
@@ -13,8 +13,6 @@ Tenho interesse em continuar evoluindo como desenvolvedor, explorando diferentes
 </p>
 
 ---
-
-## 📫 Onde me encontrar
 
 <p>
   <a href="mailto:queirozmiguel06@gmail.com">
@@ -31,5 +29,4 @@ Tenho interesse em continuar evoluindo como desenvolvedor, explorando diferentes
 </p>
 
 ---
-
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
