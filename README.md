@@ -2,40 +2,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), 
-com interesse em desenvolvimento de software e tecnologia.
+Sou estudante de Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), com interesse em desenvolvimento de software e tecnologia.
 
-Atualmente estou aprofundando meus conhecimentos em programação, estruturas de dados,
-desenvolvimento web e bancos de dados.
+Durante minha formação, venho desenvolvendo conhecimentos em programação, estruturas de dados, desenvolvimento web e bancos de dados, buscando sempre aplicar o que aprendo em projetos práticos.
+
+Tenho interesse em continuar evoluindo como desenvolvedor, explorando diferentes tecnologias e aprimorando minha capacidade de criar soluções eficientes e funcionais.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
-
-### Tecnologias
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-## 📚 Formação
-
-🎓 **Sistemas de Informação — IFES**  
-2025 — atualmente
-
-📍 Instituto Federal do Espírito Santo
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trezeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezeli&layout=compact&langs_count=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
