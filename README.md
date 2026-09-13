@@ -1,7 +1,5 @@
 # Olá! Eu sou o Miguel 👋
 
-## 🧑‍💻 Sobre mim
-
 Sou estudante de Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), com interesse em desenvolvimento de software e tecnologia.
 
 Durante minha formação, venho desenvolvendo conhecimentos em programação, estruturas de dados, desenvolvimento web e bancos de dados, buscando sempre aplicar o que aprendo em projetos práticos.
