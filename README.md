@@ -9,7 +9,7 @@ Tenho interesse em continuar evoluindo como desenvolvedor, explorando diferentes
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github" />
 </p>
 
 ---
